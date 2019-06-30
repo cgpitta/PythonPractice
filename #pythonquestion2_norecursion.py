@@ -1,4 +1,4 @@
-#write a program that computes the factorial of a given number
+#write a program that computes the factorial of a given number without the user of recursion
 #print results in a comma-separated sequence on a single line
 
 
