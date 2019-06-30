@@ -1,2 +1,2 @@
 # PythonPractice
-Python Programming Exercises (https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
+Python Programming Exercises from https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt 
